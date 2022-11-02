@@ -1,2 +1,1 @@
-# Healthcare-Analytics
-Chronic Kidney Disease
+# Healthcare Analyticso for Chronic Kidney Disease
